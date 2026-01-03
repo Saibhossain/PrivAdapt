@@ -97,14 +97,9 @@ graph TD
 ## 👥 Authors & Contributors
 This project is developed as part of the Bachelor of Science in Computer Science and Engineering at United International University.
 
-    Redwanul Islam Nayeem (011221523)
-    
     Md Saib Hossain (011221450)
-    
+    Redwanul Islam Nayeem (011221523)
     Md Shakil Hossain (0112230670)
-    
     Samiul Haque Rudra (011221023)
-    
     Mst. Sumia Khatun (011221563)
-    
     Asma Sadia Tarisha (011213129)
